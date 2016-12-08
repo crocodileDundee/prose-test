@@ -19,3 +19,35 @@ prose:
           label: "Slug"
           element: "text"
           value: "an-awesome-headline"
+    events:
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: "true"
+      - name: "title"
+        field:
+          label: "Title"
+          element: "text"
+          value: "An Awesome Headline!"
+      - name: "slug"
+        field:
+          label: "Slug"
+          element: "text"
+          value: "an-awesome-headline"
+    summaries:
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: "true"
+      - name: "title"
+        field:
+          label: "Title"
+          element: "text"
+          value: "An Awesome Headline!"
+      - name: "slug"
+        field:
+          label: "Slug"
+          element: "text"
+          value: "an-awesome-headline"
