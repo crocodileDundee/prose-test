@@ -2,3 +2,15 @@ prose:
   rooturl: ""
   media: "attachments"
   ignore: ["_prose.yml", "README.md"]
+  metadata:
+    posts:
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: "true"
+      - name: "title"
+        field:
+          label: "Title"
+          element: "text"
+          value: "An Awesome Headline!"
