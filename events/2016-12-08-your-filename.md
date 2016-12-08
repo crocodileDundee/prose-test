@@ -1,7 +1,7 @@
 ---
 published: true
-slug: an-awesome-headline
-title: ''
+slug: your-filename
+title: Your filename
 ---
 ## A New Post
 
