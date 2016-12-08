@@ -14,3 +14,8 @@ prose:
           label: "Title"
           element: "text"
           value: "An Awesome Headline!"
+      - name: "slug"
+        field:
+          label: "Slug"
+          element: "text"
+          value: "an-awesome-headline"
