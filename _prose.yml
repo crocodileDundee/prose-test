@@ -4,6 +4,10 @@ prose:
   ignore: ["_prose.yml", "README.md"]
   metadata:
     posts:
+      - name: "title"
+        field:
+          label: "Title"
+          element: "text"
       - name: "published"
         field:
           label: "Published"
