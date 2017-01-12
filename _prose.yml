@@ -13,7 +13,7 @@ prose:
         field:
           label: "Title"
           element: "text"
-          value: "An Awesome Headline!"
+          value: ""
       - name: "slug"
         field:
           label: "Slug"
