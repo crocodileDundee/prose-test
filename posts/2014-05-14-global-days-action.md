@@ -1,7 +1,8 @@
 ---
-title: Global Days of Action
+title: foo
 slug: global-days-action
 layout: post
+published: true
 ---
 
 Global Days of Action is a #BringBackOurGirls initiative to draw global attention to the abduction of over 200 girls and the terrorist attacks that continue to plague Nigeria. As a part of global days of action, we urge you to participate in Speak-Out-Saturday, May 24 and 31.
