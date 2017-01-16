@@ -36,11 +36,6 @@ prose:
           label: "Published"
           element: "checkbox"
           value: "true"
-      - name: "title"
-        field:
-          label: "Title"
-          element: "text"
-          value: "An Awesome Headline!"
       - name: "slug"
         field:
           label: "Slug"
